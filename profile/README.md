@@ -1,4 +1,4 @@
-## Hi there 👋
+## REG Linux : Retrogaming Emulation Gaming Linux 👋
 
 <!--
 
