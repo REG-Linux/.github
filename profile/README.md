@@ -1,1 +1,1 @@
-## REG Linux : Retrogaming Emulation Gaming Linux 👋
+## REG Linux : Retro Emulation Gaming Linux 👋
